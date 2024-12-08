@@ -7,4 +7,4 @@ phases:
       - mvn clean
 artifacts:
   files:
-    - target/elibrary-0.0.1-SNAPSHOT.jar
+    - target/elibrary.jar
